@@ -126,6 +126,14 @@
       {
         "fact": "Sanae Takaichi became Japan's first-ever female Prime Minister, elected on 21 October 2025, leading a minority LDP-led coalition government.",
         "detail": "A protégée of former PM Shinzo Abe (assassinated in 2022). asOf 2026-07-29."
+      },
+      {
+        "fact": "Ali Khamenei (born 17 July 1939, Mashhad) was President of Iran from 1981–1989 — the first cleric to hold that office — before becoming Iran's 2nd Supreme Leader in 1989, succeeding the Islamic Republic's founder, Ayatollah Ruhollah Khomeini.",
+        "detail": "He was killed in a US–Israeli airstrike on 28 February 2026, the day the 2026 Iran war broke out, after more than 36 years as Supreme Leader — the longest tenure of any head of state in West Asia at the time. IMPORTANT: he is no longer Iran's Supreme Leader — see the next entry."
+      },
+      {
+        "fact": "Iran's Assembly of Experts (the 88-cleric constitutional body that selects the Supreme Leader) elected Ali Khamenei's son, Mojtaba Khamenei, as Iran's 3rd Supreme Leader on 8–9 March 2026.",
+        "detail": "Mojtaba, then 56, had long worked behind the scenes in his father's office and is seen as close to the Islamic Revolutionary Guard Corps (IRGC). asOf 2026-07-29 — this is a very recent, high-value current-affairs fact: don't answer 'Ali Khamenei' if asked who Iran's current Supreme Leader is."
       }
     ],
     "disasters": [
@@ -212,6 +220,82 @@
       {
         "fact": "Ceylon (Sri Lanka) played a strategic role in WWII: Trincomalee's natural deep-water harbour was a major Royal Navy base, and Colombo was a key Allied logistics port in the Indian Ocean.",
         "detail": "On Easter Sunday, 5 April 1942, Japanese carrier-based aircraft attacked Colombo, and days later struck Trincomalee — an attempt to cripple the British Eastern Fleet, known as the Easter Sunday Raid."
+      },
+      {
+        "fact": "Mesopotamia (between the Tigris and Euphrates rivers, modern Iraq), Ancient Egypt (Nile valley), and the Indus Valley Civilisation (Mohenjo-daro and Harappa, modern Pakistan/India) are among the earliest known 'cradles of civilisation'.",
+        "detail": "Mesopotamia is credited with early writing (cuneiform), the wheel, and the first cities, from around 3500 BCE."
+      },
+      {
+        "fact": "The US Declaration of Independence was adopted on 4 July 1776. The French Revolution began with the storming of the Bastille on 14 July 1789.",
+        "detail": "The French Revolution (1789–1799) ended the monarchy and popularised the ideals of 'liberty, equality, fraternity'."
+      },
+      {
+        "fact": "The Russian Revolution of 1917 overthrew the Tsarist monarchy and eventually led to the founding of the Soviet Union in 1922.",
+        "detail": "The Bolsheviks, led by Vladimir Lenin, took power in the October Revolution of 1917."
+      },
+      {
+        "fact": "India gained independence from British rule on 15 August 1947, simultaneously partitioned into India and Pakistan.",
+        "detail": "Sri Lanka (then Ceylon) gained independence from Britain shortly after, on 4 February 1948."
+      },
+      {
+        "fact": "The Cold War (roughly 1947–1991) was a geopolitical standoff between the US-led Western bloc and the Soviet-led Eastern bloc, ending with the fall of the Berlin Wall (9 November 1989) and the dissolution of the USSR in December 1991.",
+        "detail": "It never involved direct large-scale fighting between the US and USSR, but played out through proxy conflicts (e.g. Korea, Vietnam) and the nuclear arms race."
+      }
+    ],
+    "world geography": [
+      {
+        "fact": "There are 7 continents (Asia, Africa, North America, South America, Antarctica, Europe, Australia/Oceania) and 5 oceans (Pacific, Atlantic, Indian, Southern, Arctic).",
+        "detail": "Asia is the largest continent by both area and population. The Pacific is the largest and deepest ocean; the Arctic is the smallest."
+      },
+      {
+        "fact": "Mount Everest (8,849 m), on the Nepal–China (Tibet) border, is the highest mountain above sea level.",
+        "detail": "Measured from base to peak, Mauna Kea in Hawaii is actually taller (~10,200 m), though most of it is underwater."
+      },
+      {
+        "fact": "The Nile (Africa, ~6,650 km) is traditionally cited as the world's longest river, though some studies argue the Amazon (South America) is actually longer.",
+        "detail": "The Amazon carries by far the largest volume of water of any river in the world."
+      },
+      {
+        "fact": "The Sahara is the world's largest hot desert; Antarctica is technically the largest desert overall (a 'cold desert', by low precipitation).",
+        "detail": ""
+      },
+      {
+        "fact": "Russia is the largest country by area; Vatican City is the smallest sovereign state.",
+        "detail": "India overtook China as the world's most populous country around 2023."
+      },
+      {
+        "fact": "The Mariana Trench (Challenger Deep, Pacific Ocean, ~10,935 m) is the deepest known point in the world's oceans.",
+        "detail": ""
+      },
+      {
+        "fact": "The Caspian Sea is the largest lake in the world by surface area (a saltwater lake); Lake Superior is the largest freshwater lake by surface area.",
+        "detail": ""
+      },
+      {
+        "fact": "Greenland is the world's largest island; the Amazon Rainforest is the largest tropical rainforest.",
+        "detail": "The Great Wall of China is the longest man-made structure in the world."
+      }
+    ],
+    "space": [
+      {
+        "fact": "NASA's Artemis programme aims to return humans to the Moon and eventually support crewed missions to Mars. Artemis I (November 2022) was an uncrewed test flight around the Moon.",
+        "detail": "Apollo 17 (1972) was the last crewed Moon landing before the Artemis programme."
+      },
+      {
+        "fact": "Artemis II — NASA's first crewed lunar mission since Apollo — launched 1 April 2026 from Kennedy Space Center aboard the SLS rocket and Orion spacecraft, on a roughly 10-day flyby of the Moon (no landing), splashing down in the Pacific Ocean off California on 10 April 2026.",
+        "detail": "The crew travelled farther from Earth than any humans in history, surpassing the distance record set by Apollo 13 in 1970."
+      },
+      {
+        "fact": "Artemis II crew: Reid Wiseman (Commander), Victor Glover (Pilot), and Mission Specialists Christina Koch and Jeremy Hansen (Canadian Space Agency).",
+        "detail": "Christina Koch became the first woman to travel to the Moon's vicinity; Victor Glover the first Black astronaut to do so; Jeremy Hansen the first non-American (Canadian) on a lunar mission."
+      },
+      {
+        "fact": "Artemis III is planned as the first crewed Moon landing since Apollo 17 (1972). NASA has selected SpaceX to provide the Human Landing System (a Starship variant) and laser communications for the mission.",
+        "detail": "asOf 2026-07-29 — flight hardware was being assembled at Kennedy Space Center; check the news feed for the latest target date."
+      },
+      {
+        "fact": "The first artificial satellite, Sputnik 1, was launched by the Soviet Union in 1957, starting the Space Race.",
+        "detail": "Yuri Gagarin (USSR) became the first human in space in 1961; Neil Armstrong became the first person on the Moon on 20 July 1969 (Apollo 11)."
       }
     ]
   }

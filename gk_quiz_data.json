@@ -176,6 +176,27 @@
       "explanation": "Sri Lanka (then Ceylon) joined the United Nations in 1955."
     },
     {
+      "category": "international",
+      "question": "Who is Iran's current Supreme Leader (as of mid-2026)?",
+      "options": ["Ali Khamenei", "Mojtaba Khamenei", "Ebrahim Raisi", "Ali Shamkhani"],
+      "answer": 1,
+      "explanation": "Ali Khamenei was killed in a US–Israeli airstrike on 28 February 2026. His son Mojtaba Khamenei was elected Iran's 3rd Supreme Leader by the Assembly of Experts on 8–9 March 2026."
+    },
+    {
+      "category": "international",
+      "question": "Before becoming Iran's 2nd Supreme Leader in 1989, Ali Khamenei held which office?",
+      "options": ["Prime Minister", "President of Iran", "Speaker of Parliament", "Head of the IRGC"],
+      "answer": 1,
+      "explanation": "Khamenei served as President of Iran from 1981 to 1989 — the first cleric to hold that office — before succeeding Ayatollah Khomeini as Supreme Leader."
+    },
+    {
+      "category": "international",
+      "question": "Which body of Iran's constitution is responsible for selecting the Supreme Leader?",
+      "options": ["The Guardian Council", "The Assembly of Experts", "The Islamic Consultative Assembly (Parliament)", "The Expediency Discernment Council"],
+      "answer": 1,
+      "explanation": "The 88-member Assembly of Experts elected Mojtaba Khamenei as the 3rd Supreme Leader in March 2026, following his father Ali Khamenei's death."
+    },
+    {
       "category": "disasters",
       "question": "When did Cyclone Ditwah make landfall on Sri Lanka's eastern coast?",
       "options": ["26 December 2024", "28 November 2025", "15 January 2026", "5 April 2026"],
@@ -293,6 +314,137 @@
       "options": ["26 June 1945", "15 August 1945", "24 October 1945", "1 January 1946"],
       "answer": 2,
       "explanation": "The UN Charter was signed on 26 June 1945 in San Francisco but came into force on 24 October 1945 once ratified by a majority of signatories — celebrated as UN Day."
+    },
+    {
+      "category": "world-history",
+      "question": "Which two rivers define the region of ancient Mesopotamia, often called a 'cradle of civilisation'?",
+      "options": ["Nile and Jordan", "Tigris and Euphrates", "Indus and Ganges", "Amazon and Orinoco"],
+      "answer": 1,
+      "explanation": "Mesopotamia lies between the Tigris and Euphrates rivers (modern Iraq), credited with early writing, the wheel, and the first cities from around 3500 BCE."
+    },
+    {
+      "category": "world-history",
+      "question": "The French Revolution began with the storming of the Bastille on which date?",
+      "options": ["4 July 1776", "14 July 1789", "9 November 1989", "1 January 1804"],
+      "answer": 1,
+      "explanation": "The Bastille was stormed on 14 July 1789, marking the start of the French Revolution (1789–1799)."
+    },
+    {
+      "category": "world-history",
+      "question": "The Russian Revolution of 1917, led by Vladimir Lenin's Bolsheviks, eventually led to the founding of which state in 1922?",
+      "options": ["The Russian Federation", "The Soviet Union", "The Warsaw Pact", "The Comintern"],
+      "answer": 1,
+      "explanation": "The October Revolution of 1917 overthrew the Tsarist monarchy, and the Soviet Union (USSR) was formally founded in 1922."
+    },
+    {
+      "category": "world-history",
+      "question": "On what date did India gain independence from British rule?",
+      "options": ["4 February 1948", "15 August 1947", "26 January 1950", "3 June 1947"],
+      "answer": 1,
+      "explanation": "India became independent on 15 August 1947, simultaneously partitioned into India and Pakistan. Sri Lanka (Ceylon) gained independence shortly after, on 4 February 1948."
+    },
+    {
+      "category": "world-history",
+      "question": "The Cold War between the US-led Western bloc and the Soviet-led Eastern bloc effectively ended with which event?",
+      "options": ["The Cuban Missile Crisis (1962)", "The fall of the Berlin Wall (1989) and USSR dissolution (1991)", "The Korean War armistice (1953)", "The founding of NATO (1949)"],
+      "answer": 1,
+      "explanation": "The Berlin Wall fell on 9 November 1989, and the Soviet Union formally dissolved in December 1991, ending the Cold War (roughly 1947–1991)."
+    },
+    {
+      "category": "world-geography",
+      "question": "How many continents and oceans are there, respectively?",
+      "options": ["6 continents, 4 oceans", "7 continents, 5 oceans", "5 continents, 5 oceans", "7 continents, 4 oceans"],
+      "answer": 1,
+      "explanation": "There are 7 continents (Asia, Africa, North America, South America, Antarctica, Europe, Australia/Oceania) and 5 oceans (Pacific, Atlantic, Indian, Southern, Arctic)."
+    },
+    {
+      "category": "world-geography",
+      "question": "What is the highest mountain above sea level, and on which border does it lie?",
+      "options": ["K2, Pakistan–China border", "Mount Everest, Nepal–China border", "Kangchenjunga, Nepal–India border", "Denali, USA"],
+      "answer": 1,
+      "explanation": "Mount Everest (8,849 m) lies on the Nepal–China (Tibet) border and is the highest mountain above sea level."
+    },
+    {
+      "category": "world-geography",
+      "question": "Which river is traditionally cited as the world's longest, though some studies argue a South American river is actually longer?",
+      "options": ["The Amazon", "The Nile", "The Yangtze", "The Mississippi"],
+      "answer": 1,
+      "explanation": "The Nile (~6,650 km) is traditionally cited as longest, though some studies argue the Amazon is actually longer. The Amazon does carry far more water than any other river."
+    },
+    {
+      "category": "world-geography",
+      "question": "Which is the largest hot desert in the world?",
+      "options": ["The Gobi Desert", "The Sahara", "The Arabian Desert", "The Kalahari Desert"],
+      "answer": 1,
+      "explanation": "The Sahara is the world's largest hot desert. Antarctica is technically the largest desert overall, classified as a 'cold desert' by low precipitation."
+    },
+    {
+      "category": "world-geography",
+      "question": "Which is the largest country in the world by area, and which is the smallest sovereign state?",
+      "options": ["China (largest), Monaco (smallest)", "Russia (largest), Vatican City (smallest)", "Canada (largest), San Marino (smallest)", "USA (largest), Liechtenstein (smallest)"],
+      "answer": 1,
+      "explanation": "Russia is the largest country by area; Vatican City is the smallest sovereign state. India overtook China as the most populous country around 2023."
+    },
+    {
+      "category": "world-geography",
+      "question": "What is the deepest known point in the world's oceans?",
+      "options": ["The Puerto Rico Trench", "The Java Trench", "The Mariana Trench (Challenger Deep)", "The Tonga Trench"],
+      "answer": 2,
+      "explanation": "The Mariana Trench's Challenger Deep, in the Pacific Ocean, is the deepest known point at about 10,935 metres."
+    },
+    {
+      "category": "world-geography",
+      "question": "Which is the world's largest island, and which is the largest lake by surface area?",
+      "options": ["Greenland; Caspian Sea", "Madagascar; Lake Superior", "Borneo; Lake Victoria", "Greenland; Lake Baikal"],
+      "answer": 0,
+      "explanation": "Greenland is the world's largest island. The Caspian Sea (a saltwater lake) is the largest lake by surface area; Lake Superior is the largest freshwater lake."
+    },
+    {
+      "category": "space",
+      "question": "Which was NASA's first crewed mission beyond low Earth orbit since the Apollo programme, launched on 1 April 2026?",
+      "options": ["Artemis I", "Artemis II", "Artemis III", "Orion-1"],
+      "answer": 1,
+      "explanation": "Artemis II launched 1 April 2026 aboard the SLS rocket and Orion spacecraft on a roughly 10-day crewed flyby of the Moon (no landing), splashing down on 10 April 2026."
+    },
+    {
+      "category": "space",
+      "question": "Which Artemis II crew member became the first woman to travel to the Moon's vicinity?",
+      "options": ["Christina Koch", "Victor Glover", "Jeremy Hansen", "Reid Wiseman"],
+      "answer": 0,
+      "explanation": "Christina Koch, a Mission Specialist on Artemis II, became the first woman to travel to the Moon's vicinity. Victor Glover became the first Black astronaut to do so, and Jeremy Hansen (Canada) the first non-American."
+    },
+    {
+      "category": "space",
+      "question": "Who commanded the Artemis II mission?",
+      "options": ["Victor Glover", "Jeremy Hansen", "Reid Wiseman", "Christina Koch"],
+      "answer": 2,
+      "explanation": "Reid Wiseman served as Mission Commander of Artemis II, with Victor Glover as Pilot, and Christina Koch and Jeremy Hansen as Mission Specialists."
+    },
+    {
+      "category": "space",
+      "question": "Artemis II's crew broke a decades-old distance-from-Earth record previously set by which mission?",
+      "options": ["Apollo 11 (1969)", "Apollo 13 (1970)", "Apollo 17 (1972)", "Gemini 11 (1966)"],
+      "answer": 1,
+      "explanation": "The Artemis II crew travelled farther from Earth than any humans in history, surpassing the distance record set by Apollo 13 astronauts in 1970."
+    },
+    {
+      "category": "space",
+      "question": "What is Artemis III planned to be?",
+      "options": [
+        "An uncrewed test flight around the Moon",
+        "The first crewed Moon landing since Apollo 17 (1972)",
+        "A crewed mission to Mars",
+        "A satellite repair mission"
+      ],
+      "answer": 1,
+      "explanation": "Artemis III is planned as the first crewed Moon landing since Apollo 17 in 1972, using a SpaceX Starship-based Human Landing System."
+    },
+    {
+      "category": "space",
+      "question": "Which country launched Sputnik 1, the first artificial satellite, in 1957?",
+      "options": ["United States", "Soviet Union", "United Kingdom", "China"],
+      "answer": 1,
+      "explanation": "The Soviet Union launched Sputnik 1 in 1957, starting the Space Race. The USSR's Yuri Gagarin became the first human in space in 1961."
     }
   ]
 }

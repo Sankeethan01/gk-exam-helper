@@ -14,6 +14,7 @@ const KEYWORD_CATEGORIES = {
   disasters: ["flood", "landslide", "cyclone", "ditwah", "earthquake", "tsunami", "disaster", "drought", "fire ", "kumamoto", "quake"],
   international: ["india", "china", "united states", "united nations", "un ", "diplomat", "embassy", "foreign ministry", "bilateral", "summit", "hormuz", "iran", "israel", "takaichi", "japan"],
   sports: ["cricket", "rugby", "olympic", "athletics", "world cup", "football", "match", "tournament", "fifa", "ipl", "mbappe", "messi", "rodri"],
+  space: ["nasa", "artemis", "spacex", "astronaut", "moon mission", "lunar", "rocket launch", "space station", "orion spacecraft", "satellite"],
 };
 
 const BOOKMARK_KEY = "gk-exam-helper-bookmarks";
