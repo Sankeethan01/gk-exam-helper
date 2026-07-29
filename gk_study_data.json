@@ -1,0 +1,218 @@
+{
+  "meta": {
+    "lastUpdated": "2026-07-29",
+    "note": "Static/fundamental facts that don't change daily. Time-sensitive entries (officeholders) carry an 'asOf' date — re-verify if it's been a while since that date."
+  },
+  "categories": {
+    "politics": [
+      {
+        "fact": "Sri Lanka is a Democratic Socialist Republic under the 1978 Constitution (the second Republican Constitution).",
+        "detail": "The first Republican Constitution was in 1972, when Ceylon became the 'Republic of Sri Lanka'. The 1978 Constitution introduced the executive presidency."
+      },
+      {
+        "fact": "Parliament is unicameral with 225 members: 196 elected from electoral districts by proportional representation, and 29 allocated from the National List.",
+        "detail": "Members serve a term of 5 years unless Parliament is dissolved earlier."
+      },
+      {
+        "fact": "Current President: Anura Kumara Dissanayake (National People's Power / JVP-led coalition), in office since 23 September 2024.",
+        "detail": "asOf 2026-07-29 — verify closer to the exam in case of any change."
+      },
+      {
+        "fact": "Current Prime Minister: Dr. Harini Amarasuriya, the 16th Prime Minister of Sri Lanka, in office since 24 September 2024.",
+        "detail": "asOf 2026-07-29 — verify closer to the exam."
+      },
+      {
+        "fact": "Current Speaker of Parliament: Jagath Wickramaratne, in office since 17 December 2024.",
+        "detail": "asOf 2026-07-29 — verify closer to the exam."
+      },
+      {
+        "fact": "The 21st Amendment to the Constitution (2022) curtailed certain presidential powers and strengthened the Constitutional Council's role in key appointments.",
+        "detail": "Passed in the aftermath of the 2022 economic and political crisis (the 'aragalaya' protests)."
+      },
+      {
+        "fact": "Ceylon (as it then was) introduced universal adult franchise in 1931 under the Donoughmore Constitution — among the first in Asia to do so.",
+        "detail": "The voting age today is 18."
+      }
+    ],
+    "judiciary": [
+      {
+        "fact": "Current Chief Justice: Padman Surasena, the 49th Chief Justice of Sri Lanka, in office since 27 July 2025.",
+        "detail": "asOf 2026-07-29 — verify closer to the exam."
+      },
+      {
+        "fact": "Court hierarchy (highest to lowest): Supreme Court → Court of Appeal → High Courts → District Courts / Magistrates' Courts / Primary Courts.",
+        "detail": "The Supreme Court has final appellate jurisdiction and exclusive constitutional jurisdiction."
+      },
+      {
+        "fact": "The Attorney General is the chief legal advisor to the Government of Sri Lanka and head of the Attorney General's Department.",
+        "detail": ""
+      },
+      {
+        "fact": "Judges of the Supreme Court and Court of Appeal are appointed by the President on the recommendation of the Constitutional Council.",
+        "detail": "This mechanism was strengthened by the 19th and 21st Amendments."
+      }
+    ],
+    "law college": [
+      {
+        "fact": "Sri Lanka Law College was established in 1874 and is the primary institution qualifying students as Attorneys-at-Law.",
+        "detail": "It is administered under the Council of Legal Education, established by the Council of Legal Education Act No. 41 of 1978."
+      },
+      {
+        "fact": "Entry to Law College for school-leavers is via a competitive entrance examination, distinct from the Law degree (LL.B.) route offered by universities.",
+        "detail": "Graduates with an approved LL.B. can enter via a different track with some exemptions."
+      },
+      {
+        "fact": "The Council of Legal Education oversees the curriculum, examinations, and admission of students as Attorneys-at-Law after completion of the course and apprenticeship.",
+        "detail": ""
+      }
+    ],
+    "geography": [
+      {
+        "fact": "Sri Lanka has 9 provinces and 25 administrative districts.",
+        "detail": "Provinces: Western, Central, Southern, Northern, Eastern, North Western, North Central, Uva, Sabaragamuwa."
+      },
+      {
+        "fact": "Sri Jayawardenepura Kotte is the administrative/legislative capital (seat of Parliament); Colombo is the commercial capital and largest city.",
+        "detail": ""
+      },
+      {
+        "fact": "The highest mountain is Pidurutalagala (2,524 m); Sri Pada (Adam's Peak) is the most culturally/religiously significant peak.",
+        "detail": ""
+      },
+      {
+        "fact": "The longest river is the Mahaweli River, which flows from the central highlands to the east coast near Trincomalee.",
+        "detail": ""
+      }
+    ],
+    "economy": [
+      {
+        "fact": "The Central Bank of Sri Lanka was established in 1950 and is the country's monetary authority.",
+        "detail": ""
+      },
+      {
+        "fact": "The currency is the Sri Lankan Rupee (LKR).",
+        "detail": ""
+      },
+      {
+        "fact": "Following the 2022 economic crisis and sovereign default, Sri Lanka entered an IMF Extended Fund Facility (EFF) program of about US$3 billion, approved in March 2023.",
+        "detail": "This came with conditions on fiscal reform, revenue-based consolidation, and debt restructuring."
+      },
+      {
+        "fact": "Sri Lanka completed major external debt restructuring with bondholders and bilateral creditors in the years following the 2022 default.",
+        "detail": "Check the latest news feed for the current program review status — this evolves regularly."
+      }
+    ],
+    "international": [
+      {
+        "fact": "Sri Lanka is a founding member of SAARC (South Asian Association for Regional Cooperation), established in 1985.",
+        "detail": ""
+      },
+      {
+        "fact": "Sri Lanka is a founding member of the Non-Aligned Movement (NAM).",
+        "detail": ""
+      },
+      {
+        "fact": "Sri Lanka joined the United Nations in 1955.",
+        "detail": ""
+      },
+      {
+        "fact": "The Strait of Hormuz lies between Iran (north) and Oman/UAE (south), linking the Persian Gulf to the Gulf of Oman and the Arabian Sea.",
+        "detail": "About 167 km long, narrowing to roughly 34 km at its tightest point. It is the world's most important oil chokepoint — around a third of the world's seaborne crude oil trade (~15 million barrels/day in 2025) passes through it, mainly bound for China, India, Japan, and South Korea."
+      },
+      {
+        "fact": "2026 Strait of Hormuz crisis: after Israeli strikes on Iran from late February 2026 and the US joining the campaign, Iran declared the strait 'closed' from 4 March 2026, attacking and boarding ships and laying sea mines.",
+        "detail": "Commercial traffic through the strait fell over 90%; Brent crude jumped from ~$75 to over $100/barrel. A US–Iran–Israel ceasefire was reached on 7–8 April 2026, but fighting flared again in July 2026 after Iran struck three commercial vessels that had bypassed its approved route. asOf 2026-07-29 — this is still unfolding, check the news feed for the latest status."
+      },
+      {
+        "fact": "Sanae Takaichi became Japan's first-ever female Prime Minister, elected on 21 October 2025, leading a minority LDP-led coalition government.",
+        "detail": "A protégée of former PM Shinzo Abe (assassinated in 2022). asOf 2026-07-29."
+      }
+    ],
+    "disasters": [
+      {
+        "fact": "The 2004 Indian Ocean tsunami (26 December 2004) is the deadliest natural disaster in Sri Lanka's modern history, affecting most of the coastline.",
+        "detail": ""
+      },
+      {
+        "fact": "Cyclone Ditwah made landfall on Sri Lanka's eastern coast on 28 November 2025, triggering the most extensive flooding and landslide damage the country has seen in two decades.",
+        "detail": "It affected roughly 2.2 million people across all 25 districts. As of 29 December 2025: 646 confirmed dead, 173 missing, and over 170,000 people displaced or staying with host families. The UN/Sri Lanka Humanitarian Priorities Plan, launched 11 December 2025, targeted 658,000 of the worst-affected people (Dec 2025–Apr 2026) via 81 partner organisations."
+      },
+      {
+        "fact": "The name 'Ditwah' was contributed by Yemen to the North Indian Ocean's rotating tropical cyclone naming list, maintained by a 13-member WMO/ESCAP panel that includes Sri Lanka, India, Bangladesh, and Pakistan.",
+        "detail": "'Ditwah' refers to Detwah Lagoon on Socotra Island, Yemen. Sri Lanka is itself a panel member that contributes names to this same rotating list, not only a country that gets hit by storms named by others."
+      },
+      {
+        "fact": "A magnitude 7.1 earthquake struck Kyushu, southern Japan on 28 July 2026, collapsing part of an AEON Mall in Kashima Town, Kumamoto Prefecture.",
+        "detail": "At least 13 people were confirmed dead (as of 29 July 2026) with dozens more missing or injured; PM Sanae Takaichi mobilised thousands of troops for rescue efforts. This is breaking/ongoing — check the live news feed for updated casualty figures."
+      },
+      {
+        "fact": "2025 was an unusually deadly year for earthquakes worldwide: about 8,000 deaths across 16 major events.",
+        "detail": "Strongest: magnitude 8.8 off Russia's Kamchatka coast — the first M8+ quake since 2021 and the sixth-largest ever instrumentally recorded. Deadliest: a magnitude 7.7–7.9 quake in Myanmar, killing at least 5,400. A magnitude 6.0 quake in Kunar Province, Afghanistan (August 2025) killed over 2,200."
+      },
+      {
+        "fact": "Notable 2026 earthquakes (before the Japan/Kumamoto event): a magnitude 7.5 quake in Tonga (the year's strongest to that point), a magnitude 7.4–7.5 quake in Japan's Sanriku region (20 April 2026), and a magnitude 5.8 quake in Indonesia (6 February 2026).",
+        "detail": ""
+      }
+    ],
+    "sports": [
+      {
+        "fact": "Sri Lanka won the ICC Cricket World Cup in 1996, co-hosted with India and Pakistan.",
+        "detail": ""
+      },
+      {
+        "fact": "Sri Lanka won the ICC T20 World Cup in 2014, held in Bangladesh.",
+        "detail": ""
+      },
+      {
+        "fact": "The 2026 FIFA World Cup was co-hosted by the USA, Canada, and Mexico — the first World Cup hosted by three nations — and expanded to 48 teams for the first time.",
+        "detail": "Format: 12 groups of 4; top 2 from each group plus the 8 best third-placed teams advance to a Round of 32; 104 total matches across 16 host cities. The final was played 19 July 2026 at MetLife Stadium, East Rutherford, New Jersey."
+      },
+      {
+        "fact": "Spain won the 2026 FIFA World Cup, beating Argentina 1–0 after extra time in the final — Ferran Torres scored the winner in the 106th minute.",
+        "detail": "It is Spain's second World Cup title (their first was 2010). Argentina, chasing a third straight final appearance, fell short with Messi (age 39) playing his last World Cup."
+      },
+      {
+        "fact": "2026 World Cup individual awards: Golden Boot — Kylian Mbappé (France), 10 goals, becoming the first men's player to win the Golden Boot twice (also 2022). Golden Ball (best player) — Rodri (Spain). Silver Boot (2nd-highest scorer) — Lionel Messi (Argentina), 8 goals.",
+        "detail": ""
+      },
+      {
+        "fact": "Brazil has won the most FIFA World Cups (5: 1958, 1962, 1970, 1994, 2002), followed by Germany and Italy (4 each), and Argentina (3: 1978, 1986, 2022).",
+        "detail": "Spain has now won twice (2010, 2026). France has won twice (1998, 2018)."
+      },
+      {
+        "fact": "Sri Lanka has never qualified for a FIFA World Cup finals; its best regional football result is SAFF (South Asian) champions in 1995.",
+        "detail": ""
+      },
+      {
+        "fact": "The Indian Premier League (IPL), founded in 2008 by the BCCI, is a Twenty20 cricket league. The inaugural 2008 title was won by Rajasthan Royals.",
+        "detail": "Mumbai Indians and Chennai Super Kings are jointly the most successful franchises with 5 titles each (MI: 2013, 2015, 2017, 2019, 2020; CSK: 2010, 2011, 2018, 2021, 2023)."
+      },
+      {
+        "fact": "IPL 2026: Royal Challengers Bengaluru beat Gujarat Titans by 5 wickets in the final at Ahmedabad to win back-to-back titles — RCB's second IPL title, and only the third franchise ever to win consecutive titles.",
+        "detail": "Virat Kohli was Player of the Match with an unbeaten 75 off 42 balls, chasing down Gujarat's 155/8 with 161/5 in 18 overs."
+      }
+    ],
+    "world history": [
+      {
+        "fact": "World War I: 1914–1918. It ended with the Treaty of Versailles, signed 28 June 1919, which also founded the League of Nations — the forerunner of the UN.",
+        "detail": ""
+      },
+      {
+        "fact": "World War II: 1939–1945. Key dates — D-Day (Normandy landings) on 6 June 1944, the largest amphibious invasion in history; VE Day (Victory in Europe, Germany's surrender) on 8 May 1945, days after Hitler's suicide on 30 April 1945.",
+        "detail": ""
+      },
+      {
+        "fact": "The US dropped atomic bombs on Hiroshima (6 August 1945) and Nagasaki (9 August 1945). Japan's surrender was announced on VJ Day, 15 August 1945, with the formal signed surrender aboard USS Missouri on 2 September 1945 — marking the end of WWII.",
+        "detail": ""
+      },
+      {
+        "fact": "The United Nations Charter was signed on 26 June 1945 in San Francisco and came into force on 24 October 1945 (celebrated annually as UN Day) once ratified by a majority of signatories.",
+        "detail": ""
+      },
+      {
+        "fact": "Ceylon (Sri Lanka) played a strategic role in WWII: Trincomalee's natural deep-water harbour was a major Royal Navy base, and Colombo was a key Allied logistics port in the Indian Ocean.",
+        "detail": "On Easter Sunday, 5 April 1942, Japanese carrier-based aircraft attacked Colombo, and days later struck Trincomalee — an attempt to cripple the British Eastern Fleet, known as the Easter Sunday Raid."
+      }
+    ]
+  }
+}

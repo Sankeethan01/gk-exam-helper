@@ -1,0 +1,298 @@
+{
+  "meta": {
+    "lastUpdated": "2026-07-29",
+    "note": "Multiple-choice questions derived from gk_study_data.json plus recent current affairs. Keep this in sync when you add new facts there."
+  },
+  "questions": [
+    {
+      "category": "politics",
+      "question": "Under which Constitution did Sri Lanka officially become a 'Democratic Socialist Republic' with an executive presidency?",
+      "options": ["1948 Soulbury Constitution", "1972 First Republican Constitution", "1978 Constitution", "21st Amendment (2022)"],
+      "answer": 2,
+      "explanation": "The 1978 Constitution (the second Republican Constitution) renamed the country the Democratic Socialist Republic of Sri Lanka and introduced the executive presidency. The 1972 Constitution had only made it the 'Republic of Sri Lanka'."
+    },
+    {
+      "category": "politics",
+      "question": "How many members does the Parliament of Sri Lanka have in total?",
+      "options": ["196", "200", "225", "250"],
+      "answer": 2,
+      "explanation": "225 members: 196 elected from electoral districts by proportional representation, plus 29 allocated from the National List."
+    },
+    {
+      "category": "politics",
+      "question": "Of Parliament's 225 seats, how many come from the National List rather than electoral districts?",
+      "options": ["20", "25", "29", "35"],
+      "answer": 2,
+      "explanation": "29 seats are allocated from the National List; the remaining 196 are elected directly from electoral districts."
+    },
+    {
+      "category": "politics",
+      "question": "Who is the current Speaker of the Parliament of Sri Lanka (in office since December 2024)?",
+      "options": ["Mahinda Yapa Abeywardena", "Karu Jayasuriya", "Jagath Wickramaratne", "Anura Kumara Dissanayake"],
+      "answer": 2,
+      "explanation": "Jagath Wickramaratne (National People's Power) has been Speaker since 17 December 2024."
+    },
+    {
+      "category": "politics",
+      "question": "Which constitutional amendment curtailed certain presidential powers and strengthened the Constitutional Council in the aftermath of the 2022 protests?",
+      "options": ["13th Amendment", "19th Amendment", "20th Amendment", "21st Amendment"],
+      "answer": 3,
+      "explanation": "The 21st Amendment (2022) curtailed presidential powers and strengthened the Constitutional Council's role in key appointments, passed after the 'aragalaya' protests."
+    },
+    {
+      "category": "judiciary",
+      "question": "Who is the current (49th) Chief Justice of Sri Lanka?",
+      "options": ["Jayantha Jayasuriya", "Murdu Fernando", "Padman Surasena", "Priyantha Jayawardena"],
+      "answer": 2,
+      "explanation": "Padman Surasena has been the 49th Chief Justice of Sri Lanka since 27 July 2025."
+    },
+    {
+      "category": "judiciary",
+      "question": "Which court in Sri Lanka holds exclusive constitutional jurisdiction and final appellate jurisdiction?",
+      "options": ["Court of Appeal", "High Court", "Supreme Court", "District Court"],
+      "answer": 2,
+      "explanation": "The Supreme Court sits at the top of the hierarchy (above the Court of Appeal, High Courts, and District/Magistrates'/Primary Courts) and has final appellate and exclusive constitutional jurisdiction."
+    },
+    {
+      "category": "judiciary",
+      "question": "Judges of the Supreme Court and Court of Appeal are appointed by the President on the recommendation of which body?",
+      "options": ["The Cabinet of Ministers", "The Judicial Service Commission", "The Constitutional Council", "Parliament directly"],
+      "answer": 2,
+      "explanation": "The Constitutional Council recommends these appointments to the President — a mechanism strengthened by the 19th and 21st Amendments."
+    },
+    {
+      "category": "judiciary",
+      "question": "Which of these correctly orders Sri Lanka's courts from highest to lowest?",
+      "options": [
+        "Supreme Court → High Court → Court of Appeal → District Court",
+        "Court of Appeal → Supreme Court → Magistrate's Court → High Court",
+        "Supreme Court → Court of Appeal → High Court → District/Magistrate's Court",
+        "High Court → Supreme Court → Court of Appeal → Primary Court"
+      ],
+      "answer": 2,
+      "explanation": "The correct hierarchy is Supreme Court → Court of Appeal → High Courts → District Courts / Magistrates' Courts / Primary Courts."
+    },
+    {
+      "category": "law-college",
+      "question": "In what year was Sri Lanka Law College established?",
+      "options": ["1874", "1901", "1947", "1978"],
+      "answer": 0,
+      "explanation": "Sri Lanka Law College was established in 1874, making it the country's oldest and primary institution for qualifying Attorneys-at-Law."
+    },
+    {
+      "category": "law-college",
+      "question": "Which body administers Sri Lanka Law College's curriculum, examinations, and admission of Attorneys-at-Law?",
+      "options": ["The Bar Association of Sri Lanka", "The Ministry of Justice", "The Council of Legal Education", "The University Grants Commission"],
+      "answer": 2,
+      "explanation": "The Council of Legal Education, established by the Council of Legal Education Act No. 41 of 1978, oversees Law College."
+    },
+    {
+      "category": "law-college",
+      "question": "How do most school-leavers gain entry to Sri Lanka Law College?",
+      "options": [
+        "Automatically after the G.C.E. Advanced Level",
+        "Via a competitive entrance examination",
+        "Only through a university LL.B. degree",
+        "By direct ministerial appointment"
+      ],
+      "answer": 1,
+      "explanation": "Entry for school-leavers is via a competitive entrance examination, distinct from the LL.B. route offered by universities (LL.B. graduates enter via a different track with some exemptions)."
+    },
+    {
+      "category": "geography",
+      "question": "How many provinces does Sri Lanka have?",
+      "options": ["7", "8", "9", "25"],
+      "answer": 2,
+      "explanation": "Sri Lanka has 9 provinces (and 25 administrative districts): Western, Central, Southern, Northern, Eastern, North Western, North Central, Uva, and Sabaragamuwa."
+    },
+    {
+      "category": "geography",
+      "question": "Which city is Sri Lanka's administrative/legislative capital and seat of Parliament?",
+      "options": ["Colombo", "Kandy", "Sri Jayawardenepura Kotte", "Galle"],
+      "answer": 2,
+      "explanation": "Sri Jayawardenepura Kotte is the administrative/legislative capital; Colombo remains the commercial capital and largest city."
+    },
+    {
+      "category": "geography",
+      "question": "What is the longest river in Sri Lanka?",
+      "options": ["Kelani River", "Kalu River", "Walawe River", "Mahaweli River"],
+      "answer": 3,
+      "explanation": "The Mahaweli River is the longest, flowing from the central highlands to the east coast near Trincomalee."
+    },
+    {
+      "category": "geography",
+      "question": "What is the highest mountain peak in Sri Lanka?",
+      "options": ["Sri Pada (Adam's Peak)", "Pidurutalagala", "Knuckles", "Namunukula"],
+      "answer": 1,
+      "explanation": "Pidurutalagala (2,524 m) is the highest peak; Sri Pada (Adam's Peak) is lower but more culturally/religiously significant."
+    },
+    {
+      "category": "economy",
+      "question": "In what year was the Central Bank of Sri Lanka established?",
+      "options": ["1948", "1950", "1972", "1978"],
+      "answer": 1,
+      "explanation": "The Central Bank of Sri Lanka was established in 1950 and is the country's monetary authority."
+    },
+    {
+      "category": "economy",
+      "question": "Sri Lanka's IMF Extended Fund Facility programme, approved after the 2022 default, was for approximately how much?",
+      "options": ["US$1 billion", "US$3 billion", "US$10 billion", "US$500 million"],
+      "answer": 1,
+      "explanation": "The IMF approved an Extended Fund Facility (EFF) of about US$3 billion in March 2023, conditional on fiscal reform and debt restructuring."
+    },
+    {
+      "category": "international",
+      "question": "The Strait of Hormuz connects the Persian Gulf to which body of water?",
+      "options": ["The Red Sea", "The Mediterranean Sea", "The Gulf of Oman and Arabian Sea", "The Bay of Bengal"],
+      "answer": 2,
+      "explanation": "The Strait of Hormuz links the Persian Gulf to the Gulf of Oman and the Arabian Sea, lying between Iran and Oman/UAE."
+    },
+    {
+      "category": "international",
+      "question": "Roughly what share of the world's seaborne crude oil trade passed through the Strait of Hormuz in 2025?",
+      "options": ["About 5%", "About 15%", "About a third (~34%)", "About 60%"],
+      "answer": 2,
+      "explanation": "Around 34% of global crude oil trade (about 15 million barrels/day) passed through the Strait of Hormuz in 2025, making it the world's most important oil chokepoint."
+    },
+    {
+      "category": "international",
+      "question": "Which two countries/territories flank the Strait of Hormuz?",
+      "options": ["Iran, and Oman/UAE", "Saudi Arabia and Iran", "Iraq and Kuwait", "Qatar and Bahrain"],
+      "answer": 0,
+      "explanation": "Iran lies to the north of the strait, with Oman and the UAE to the south."
+    },
+    {
+      "category": "international",
+      "question": "Who became Japan's first-ever female Prime Minister, elected in October 2025?",
+      "options": ["Yuriko Koike", "Renho Saito", "Sanae Takaichi", "Yoko Kamikawa"],
+      "answer": 2,
+      "explanation": "Sanae Takaichi was elected on 21 October 2025, becoming Japan's first female Prime Minister, leading a minority LDP-led coalition."
+    },
+    {
+      "category": "international",
+      "question": "In what year did Sri Lanka join the United Nations?",
+      "options": ["1948", "1955", "1972", "1985"],
+      "answer": 1,
+      "explanation": "Sri Lanka (then Ceylon) joined the United Nations in 1955."
+    },
+    {
+      "category": "disasters",
+      "question": "When did Cyclone Ditwah make landfall on Sri Lanka's eastern coast?",
+      "options": ["26 December 2024", "28 November 2025", "15 January 2026", "5 April 2026"],
+      "answer": 1,
+      "explanation": "Cyclone Ditwah made landfall on 28 November 2025, causing the most extensive flooding and landslide damage Sri Lanka has seen in two decades."
+    },
+    {
+      "category": "disasters",
+      "question": "Which country contributed the name 'Ditwah' to the North Indian Ocean tropical cyclone naming list?",
+      "options": ["Sri Lanka", "India", "Yemen", "Bangladesh"],
+      "answer": 2,
+      "explanation": "'Ditwah' was contributed by Yemen, named after Detwah Lagoon on Socotra Island. The naming list is maintained by a 13-member WMO/ESCAP panel that includes Sri Lanka."
+    },
+    {
+      "category": "disasters",
+      "question": "Approximately how many people were confirmed dead from Cyclone Ditwah as of 29 December 2025?",
+      "options": ["64", "246", "646", "1,646"],
+      "answer": 2,
+      "explanation": "646 people were confirmed dead and 173 remained missing as of 29 December 2025, with over 170,000 displaced across all 25 districts."
+    },
+    {
+      "category": "disasters",
+      "question": "A magnitude 7.1 earthquake on 28 July 2026 caused a shopping mall to collapse in which Japanese prefecture?",
+      "options": ["Fukushima", "Hokkaido", "Kumamoto", "Osaka"],
+      "answer": 2,
+      "explanation": "The quake struck Kyushu, collapsing part of an AEON Mall in Kashima Town, Kumamoto Prefecture, killing at least 13 people."
+    },
+    {
+      "category": "disasters",
+      "question": "What is the deadliest natural disaster in Sri Lanka's modern history?",
+      "options": ["Cyclone Ditwah (2025)", "The 2004 Indian Ocean tsunami", "The 2016 Aranayaka landslide", "The 2017 southwest monsoon floods"],
+      "answer": 1,
+      "explanation": "The 2004 Indian Ocean tsunami (26 December 2004) remains the deadliest, affecting most of Sri Lanka's coastline."
+    },
+    {
+      "category": "disasters",
+      "question": "Which country experienced the world's strongest earthquake of 2025, at magnitude 8.8?",
+      "options": ["Myanmar", "Afghanistan", "Russia (Kamchatka)", "Indonesia"],
+      "answer": 2,
+      "explanation": "An 8.8-magnitude earthquake struck off Russia's Kamchatka coast in 2025 — the first M8+ quake since 2021 and the sixth-largest ever instrumentally recorded. Myanmar's M7.7–7.9 quake the same year was the deadliest, killing at least 5,400."
+    },
+    {
+      "category": "sports",
+      "question": "Which three countries co-hosted the 2026 FIFA World Cup?",
+      "options": ["Qatar, UAE, Saudi Arabia", "USA, Canada, Mexico", "Brazil, Argentina, Uruguay", "England, France, Germany"],
+      "answer": 1,
+      "explanation": "The USA, Canada, and Mexico jointly hosted the 2026 World Cup — the first time three nations have co-hosted — across 16 cities, with an expanded 48-team format."
+    },
+    {
+      "category": "sports",
+      "question": "Who won the 2026 FIFA World Cup final?",
+      "options": ["Argentina", "France", "Spain", "Brazil"],
+      "answer": 2,
+      "explanation": "Spain beat Argentina 1–0 after extra time at MetLife Stadium on 19 July 2026 (Ferran Torres scored in the 106th minute) — Spain's second World Cup title after 2010."
+    },
+    {
+      "category": "sports",
+      "question": "Who won the Golden Boot at the 2026 FIFA World Cup, becoming the first men's player to win it twice?",
+      "options": ["Lionel Messi", "Kylian Mbappé", "Rodri", "Erling Haaland"],
+      "answer": 1,
+      "explanation": "Kylian Mbappé scored 10 goals to win the Golden Boot for a second time (also 2022). Messi won the Silver Boot with 8 goals; Rodri won the Golden Ball as best player."
+    },
+    {
+      "category": "sports",
+      "question": "Which team won the 2026 Indian Premier League (IPL) title?",
+      "options": ["Gujarat Titans", "Chennai Super Kings", "Royal Challengers Bengaluru", "Mumbai Indians"],
+      "answer": 2,
+      "explanation": "Royal Challengers Bengaluru beat Gujarat Titans by 5 wickets in the final, winning back-to-back IPL titles with Virat Kohli named Player of the Match."
+    },
+    {
+      "category": "sports",
+      "question": "Which two IPL franchises are jointly the most successful, with 5 titles each?",
+      "options": ["CSK and RCB", "Mumbai Indians and Chennai Super Kings", "Mumbai Indians and KKR", "RCB and KKR"],
+      "answer": 1,
+      "explanation": "Mumbai Indians (2013, 2015, 2017, 2019, 2020) and Chennai Super Kings (2010, 2011, 2018, 2021, 2023) have each won 5 IPL titles."
+    },
+    {
+      "category": "sports",
+      "question": "In what year was the IPL founded, and who won its inaugural title?",
+      "options": ["2005, Chennai Super Kings", "2008, Rajasthan Royals", "2008, Mumbai Indians", "2011, Kolkata Knight Riders"],
+      "answer": 1,
+      "explanation": "The IPL was founded in 2008 by the BCCI; Rajasthan Royals won the inaugural title."
+    },
+    {
+      "category": "world-history",
+      "question": "The Treaty of Versailles, which ended WWI and founded the League of Nations, was signed in which year?",
+      "options": ["1918", "1919", "1920", "1945"],
+      "answer": 1,
+      "explanation": "The Treaty of Versailles was signed on 28 June 1919, the same day the League of Nations was founded."
+    },
+    {
+      "category": "world-history",
+      "question": "What does 'VE Day' commemorate?",
+      "options": ["Japan's surrender", "Germany's surrender in Europe", "The D-Day landings", "The founding of the UN"],
+      "answer": 1,
+      "explanation": "VE (Victory in Europe) Day, 8 May 1945, marks Nazi Germany's unconditional surrender, days after Hitler's suicide on 30 April 1945."
+    },
+    {
+      "category": "world-history",
+      "question": "On what date did Japan formally sign its surrender aboard USS Missouri, ending WWII?",
+      "options": ["15 August 1945", "6 August 1945", "2 September 1945", "24 October 1945"],
+      "answer": 2,
+      "explanation": "Japan's surrender was announced on VJ Day (15 August 1945), but the formal signed surrender took place aboard USS Missouri on 2 September 1945."
+    },
+    {
+      "category": "world-history",
+      "question": "The Japanese air raid on Colombo and Trincomalee during WWII, known as the Easter Sunday Raid, took place in which year?",
+      "options": ["1940", "1942", "1944", "1945"],
+      "answer": 1,
+      "explanation": "On Easter Sunday, 5 April 1942, Japanese carrier-based aircraft attacked Colombo, and days later Trincomalee, aiming to cripple the British Eastern Fleet."
+    },
+    {
+      "category": "world-history",
+      "question": "When did the United Nations Charter come into force (now marked annually as UN Day)?",
+      "options": ["26 June 1945", "15 August 1945", "24 October 1945", "1 January 1946"],
+      "answer": 2,
+      "explanation": "The UN Charter was signed on 26 June 1945 in San Francisco but came into force on 24 October 1945 once ratified by a majority of signatories — celebrated as UN Day."
+    }
+  ]
+}

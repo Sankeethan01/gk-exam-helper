@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GK Exam Helper — Sri Lanka</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <h1>GK Exam Helper</h1>
+    <nav class="tabs">
+      <button class="tab-btn active" data-tab="news">Live News</button>
+      <button class="tab-btn" data-tab="fundamentals">Fundamentals</button>
+      <button class="tab-btn" data-tab="quiz">Quiz</button>
+    </nav>
+  </header>
+
+  <main>
+    <section id="news" class="tab-panel active">
+      <div class="controls">
+        <input type="search" id="search-input" placeholder="Search headlines… (press Enter to search the web)" />
+        <div class="chips" id="category-chips">
+          <button class="chip active" data-category="all">All</button>
+          <button class="chip" data-category="politics">Politics</button>
+          <button class="chip" data-category="economy">Economy</button>
+          <button class="chip" data-category="judiciary">Judiciary</button>
+          <button class="chip" data-category="disasters">Disasters</button>
+          <button class="chip" data-category="international">International</button>
+          <button class="chip" data-category="sports">Sports</button>
+          <button class="chip" data-category="general">General</button>
+        </div>
+        <label class="bookmark-toggle">
+          <input type="checkbox" id="bookmarked-only" />
+          Bookmarked only
+        </label>
+        <button id="refresh-btn" title="Fetch latest news">↻ Refresh</button>
+        <button id="clear-search-btn" title="Back to the aggregated feed" hidden>✕ Back to feed</button>
+      </div>
+      <div id="status" class="status"></div>
+      <ul id="news-list" class="news-list"></ul>
+    </section>
+
+    <section id="fundamentals" class="tab-panel">
+      <div class="controls">
+        <input type="search" id="fund-search-input" placeholder="Search fundamentals…" />
+      </div>
+      <div id="fundamentals-list" class="fundamentals-list"></div>
+    </section>
+
+    <section id="quiz" class="tab-panel">
+      <div class="controls" id="quiz-setup">
+        <div class="chips" id="quiz-category-chips">
+          <button class="chip active" data-quiz-category="all">All</button>
+          <button class="chip" data-quiz-category="politics">Politics</button>
+          <button class="chip" data-quiz-category="judiciary">Judiciary</button>
+          <button class="chip" data-quiz-category="law-college">Law College</button>
+          <button class="chip" data-quiz-category="geography">Geography</button>
+          <button class="chip" data-quiz-category="economy">Economy</button>
+          <button class="chip" data-quiz-category="international">International</button>
+          <button class="chip" data-quiz-category="disasters">Disasters</button>
+          <button class="chip" data-quiz-category="sports">Sports</button>
+          <button class="chip" data-quiz-category="world-history">World History</button>
+        </div>
+        <button id="start-quiz-btn">Start Quiz</button>
+      </div>
+      <div id="quiz-body"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>News aggregated from public RSS feeds via rss2json. Verify facts before the exam — this is a study aid, not a source of truth.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
